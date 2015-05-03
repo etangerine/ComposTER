@@ -47,7 +47,7 @@ Ruby, config mini, ..
 ![Logo](images/bouton.png)
 
 ### Electronique
-
+![Logo](images/arduino_img.png)
 
 
 
