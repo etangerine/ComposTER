@@ -16,7 +16,7 @@ blabla des déchets, pas de vie de quartier, pas de connaissance sur les attract
 
 L'équipe
 --------------
-![alt tag](https://github.com/etangerine/ComposTER/tree/master/images/team.jpg)
+![Team](images/team.jpg)
 
 
 *Texte en italique*
