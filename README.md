@@ -1,5 +1,6 @@
-# ComposTER
+
 ![Logo](images/logo.png)
+
 Compos'TER - Gare Remix 2015 Project - Green Team ( Les lampistes : http://garemixsaintpaul.grandlyon.com/index.php/les-lampistes/ )
 
 *Texte en italique entre étoile *
