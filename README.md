@@ -8,7 +8,7 @@ Compos'TER - Gare Remix 2015 Project - Green Team ( Les lampistes : http://garem
 - élément d'une liste débutant par tiret
 
 
-![Logo](images/logo)
+![Logo](images/logo.png)
 
 
 ## Contexte et problématique
