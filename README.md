@@ -47,6 +47,7 @@ Ruby, config mini, ..
 ![Logo](images/bouton.png)
 
 ### Electronique
+Connectez impérativement la carte en USB puisqu'il y a envoi d'informations au programme Ruby par le Serial.
 ![Logo](images/arduino_img.png)
 
 
